@@ -1,10 +1,4 @@
-
-<<<<<<< HEAD
-this is the test file is now updated in the file
-
-pizza
 burger
-=======
-this is the test file is now updated in the file now this is change 
-tetsststststs
->>>>>>> 74e28734018f3581f72228ca243455e15da66d4a
+pizza
+fries
+coke
