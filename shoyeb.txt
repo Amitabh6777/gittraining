@@ -1,1 +1,37 @@
+<<<<<<< HEAD
 ful change is done
+=======
+
+<<<<<<< HEAD
+this is the test file is now updated in the file
+
+pizza
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+fries
+coke
+
+added fanta
+
+remove it after commiy
+=======
+=======
+>>>>>>> parent of bba5287... test
+=======
+>>>>>>> parent of bba5287... test
+burger
+=======
+this is the test file is now updated in the file now this is change 
+tetsststststs
+>>>>>>> 74e28734018f3581f72228ca243455e15da66d4a
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bba5287... test
+=======
+>>>>>>> parent of bba5287... test
+=======
+>>>>>>> parent of bba5287... test
+
+testststststs
+>>>>>>> parent of dbcb3fc... reveert
